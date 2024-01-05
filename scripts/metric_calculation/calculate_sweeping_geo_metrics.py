@@ -2,8 +2,8 @@ import os
 import pandas as pd
 import itertools
 
-geo_data_dir = 'data/fuel_data_geo'
-geo_metrics_dir = 'results/geo_visit_metrics'
+geo_data_dir = 'data/fuel_data_geo_sweeping'
+geo_metrics_dir = 'results/geo_sweep_metrics'
 
 
 total_unique_locations = []
@@ -11,9 +11,6 @@ total_unique_locations = []
 # Average path length
 truck_paths = []
 # Total number of visits per unique location
-
-
-
 
 # Define a function to count the repeated values in an array
 def count_repeated_values(array):
@@ -52,7 +49,7 @@ for filename in os.listdir(geo_data_dir):
 
         f.write(f'{filename}\n\n')
 
-        f.write(f'Number of unique locations visited: {len(visited_locations)}\n\n')
+        f.write(f'Number of unique locations sweeped: {len(visited_locations)}\n\n')
 
         f.write(f'Truck path: {len(truck_path)}\n')
         truck_paths.append(truck_path)
@@ -61,7 +58,7 @@ for filename in os.listdir(geo_data_dir):
         for loc in truck_path:
             f.write(f' {loc}\n')
 
-        f.write('\n\nNumber of times each location was visited:\n')
+        f.write('\n\nNumber of times each location was sweeped:\n')
 
         # Iterate over each location and its count in the truck path
         for label, value in count_repeated_values(truck_path).items():
@@ -70,14 +67,15 @@ for filename in os.listdir(geo_data_dir):
 
 
 with open(os.path.join(geo_metrics_dir, 'all_truck_paths.txt'), 'w') as f:
-    f.write(f"Average number of locations visited: {sum([len(path) for path in truck_paths])/len(truck_paths)}\n\n")
+    f.write(f"Average number of locations sweeped: {sum([len(path) for path in truck_paths])/len(truck_paths)}\n\n")
 
     combined_path = list(itertools.chain(*truck_paths))
     unique_location_counts = count_repeated_values(combined_path)
 
-    f.write(f'Total number of unique locations visited: {len(unique_location_counts)}\n\n')
+    f.write(f'Total number of unique locations sweeped: {len(unique_location_counts)}\n\n')
 
-    f.write(f'Number of times each location was visited:\n')
+    f.write(f'Number of times each location was sweeped:\n')
     for label, value in unique_location_counts.items():
         f.write(f'{label}: {value}\n')
+
 

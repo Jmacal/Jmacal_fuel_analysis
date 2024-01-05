@@ -1,0 +1,63 @@
+SN214929_2023_10_25_1105.log
+
+Number of unique locations visited: 27
+
+Truck path: 28
+ London Heating Ltd, 360, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LE, United Kingdom
+ Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LX, United Kingdom
+ Shell, 22-24, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 20, Marksbury Avenue, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ Cranleigh Court, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4JF, United Kingdom
+ 18, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 17, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 16, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 14, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 13, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 12, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 10, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 9, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 8, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 7, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 5, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 4, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 3, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 2, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ 1, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom
+ Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LN, United Kingdom
+ Mortlake Road, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LN, United Kingdom
+ Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LN, United Kingdom
+ Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, SW14 7BS, United Kingdom
+ Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, SW14 7BS, United Kingdom
+ Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4ES, United Kingdom
+ Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4EW, United Kingdom
+ 221, Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4EW, United Kingdom
+
+
+Number of times each location was visited:
+London Heating Ltd, 360, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LE, United Kingdom: 1
+Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LX, United Kingdom: 1
+Shell, 22-24, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+20, Marksbury Avenue, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+Cranleigh Court, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4JF, United Kingdom: 1
+18, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+17, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+16, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+14, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+13, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+12, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+10, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+9, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+8, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+7, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+5, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+4, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+3, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+2, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+1, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LN, United Kingdom: 2
+Mortlake Road, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LN, United Kingdom: 1
+Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, SW14 7BS, United Kingdom: 1
+Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, SW14 7BS, United Kingdom: 1
+Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4ES, United Kingdom: 1
+Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4EW, United Kingdom: 1
+221, Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4EW, United Kingdom: 1

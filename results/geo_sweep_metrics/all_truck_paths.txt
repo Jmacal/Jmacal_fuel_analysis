@@ -1,0 +1,145 @@
+Average number of locations sweeped: 40.8
+
+Total number of unique locations sweeped: 140
+
+Number of times each location was sweeped:
+LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SQ, United Kingdom: 3
+LBRUT Central Depot, River Crane Walk, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7FA, United Kingdom: 2
+LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SY, United Kingdom: 1
+Hampton Wick Garage and MOT Test Centre, 1a, Upper Teddington Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DL, United Kingdom: 1
+Wickham House, Upper Teddington Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DL, United Kingdom: 1
+High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DL, United Kingdom: 1
+97, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 4
+Priya's Convenience Store, 85, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DG, United Kingdom: 4
+100, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+98, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+96, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+92, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 3
+Hampton Wick Station, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+90, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 1
+88, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+86, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+84, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+82, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+80, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+78, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+76, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+74, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+72, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+70, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+68, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 4
+1, Seymour Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DG, United Kingdom: 1
+56-58, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 3
+The Foresters Arms, 45, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DG, United Kingdom: 3
+Hampton Wick Tandoori, 36-38, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 3
+Sigma Sports, 37-43, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+Little China, 35, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 3
+The Swan, 22, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 3
+Lower Teddington Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 1
+Hussars, 23, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+Pomegranate Bistro, 17, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+Riverview House, 20, Old Bridge Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DP, United Kingdom: 1
+Lower Teddington Road, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 1
+Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 2
+Horse Fair, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 1
+High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 3
+Machaan, 5, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+London Electric Bike Co, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 1
+ShowPrint, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 1
+School Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DE, United Kingdom: 1
+Jubilee Close, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DH, United Kingdom: 1
+Hampton House, 1, Vicarage Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4ED, United Kingdom: 1
+M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2SD, United Kingdom: 1
+M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2BF, United Kingdom: 1
+M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 1FB, United Kingdom: 1
+M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Wooburn Green, Buckinghamshire, England, HP9 1XB, United Kingdom: 1
+M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0NW, United Kingdom: 2
+Wooburn Green Lane, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Wooburn Green, Buckinghamshire, England, HP9 1UD, United Kingdom: 1
+M40, Holtspur, Wooburn, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0NW, United Kingdom: 1
+M40, Wooburn, Loudwater, Buckinghamshire, England, HP10 0NL, United Kingdom: 1
+M40, Wooburn, Loudwater, Buckinghamshire, England, HP10 0PB, United Kingdom: 1
+M40, Knave's Beech Business Park, Wooburn, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9UT, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0PB, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9RS, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP11 1JT, United Kingdom: 1
+M40, Rayners Avenue Mobile Home Park, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9DL, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Little Marlow, Buckinghamshire, England, HP10 9FG, United Kingdom: 1
+M40, Little Marlow, Buckinghamshire, England, HP10 9FW, United Kingdom: 1
+M40, Little Marlow, Buckinghamshire, England, HP11 1QG, United Kingdom: 1
+M40, Handy Cross, Little Marlow, Buckinghamshire, England, HP11 1TJ, United Kingdom: 1
+M40, Handy Cross, Little Marlow, Buckinghamshire, England, HP11 1UP, United Kingdom: 1
+M40, Great Marlow, Little Marlow, Buckinghamshire, England, HP11 1UP, United Kingdom: 1
+M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom: 3
+Cressex Road, Great Marlow, High Wycombe Community Board, High Wycombe, Buckinghamshire, England, HP12 4QQ, United Kingdom: 1
+10, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EL, United Kingdom: 1
+2, Clifford Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EA, United Kingdom: 1
+8, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
+6, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
+2, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
+237, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+Sandpits Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7DX, United Kingdom: 1
+235, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+233, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+231, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+229, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+227, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+225, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+223, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+221, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+219, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+217, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+215, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+213, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+211, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+207, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+252, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+201, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+199, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+195, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+193, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+191, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+189, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+183, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Hollow, 226, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AL, United Kingdom: 1
+210, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 3
+Sandpits Road, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Chestnut Cottage, Sudbrook Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AY, United Kingdom: 2
+202, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AD, United Kingdom: 1
+The Russell Primary School, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 2
+Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7BF, United Kingdom: 2
+Avenue Lodge, 190, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AD, United Kingdom: 1
+Manor Farm Yard, 151, Tree Close, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 1
+Manor Farm House, 149, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 1
+Petersham Farm Stables, 147, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 1
+Rutland Lodge, 145, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Magnolia House, 143a, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham House, 141-143, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+139, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AB, United Kingdom: 1
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+137, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+The Dysart, 135, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom: 3
+The Dysart, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom: 1
+127, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom: 3
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom: 3
+0166, Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom: 1
+Nightingale Lane, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom: 1
+M40, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom: 4
+Park Lane, Lane End, Buckinghamshire, England, HP14 3NS, United Kingdom: 1
+M40, Lane End, High Wycombe Community Board, High Wycombe, Buckinghamshire, England, HP12 4QD, United Kingdom: 1
+Bullocks Farm Lane, Lane End, Buckinghamshire, England, HP14 3NH, United Kingdom: 1
+High Wycombe Bypass, Lane End, Buckinghamshire, England, HP14 3NB, United Kingdom: 1
+High Wycombe Bypass, Lane End, Studley Green, Stokenchurch, Buckinghamshire, England, HP14 3NA, United Kingdom: 1
+High Wycombe Bypass, Stokenchurch, Buckinghamshire, England, HP14 3TY, United Kingdom: 1
+M40, Stokenchurch, Buckinghamshire, England, HP14 3TU, United Kingdom: 1
+M40, Stokenchurch, Buckinghamshire, England, HP14 3WN, United Kingdom: 1
+M40, Stokenchurch, Buckinghamshire, England, HP14 3YH, United Kingdom: 1
+M40, Lewknor, Stokenchurch, Buckinghamshire, England, HP14 3YH, United Kingdom: 1
+M40, Lewknor, South Oxfordshire, Oxfordshire, England, HP14 3YH, United Kingdom: 1
+M40, Lewknor, South Oxfordshire, Oxfordshire, England, OX49 5RT, United Kingdom: 1
+M40, Lewknor, South Oxfordshire, Oxfordshire, England, OX49 5TJ, United Kingdom: 1
+M40, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5TZ, United Kingdom: 2
+Nethercote Lane, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5RX, United Kingdom: 1

@@ -1,6 +1,6 @@
-SN214929_2023_07_31_0711.log
+SN214929_2023_07_31_0711.csv
 
-Number of unique locations visited: 22
+Number of unique locations sweeped: 22
 
 Truck path: 24
  M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2SD, United Kingdom
@@ -29,7 +29,7 @@ Truck path: 24
  M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
 
 
-Number of times each location was visited:
+Number of times each location was sweeped:
 M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2SD, United Kingdom: 1
 M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2BF, United Kingdom: 1
 M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 1FB, United Kingdom: 1

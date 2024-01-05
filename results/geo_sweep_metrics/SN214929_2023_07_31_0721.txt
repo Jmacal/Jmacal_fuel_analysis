@@ -1,6 +1,6 @@
-SN214929_2023_07_31_0721.log
+SN214929_2023_07_31_0721.csv
 
-Number of unique locations visited: 17
+Number of unique locations sweeped: 17
 
 Truck path: 21
  M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
@@ -26,7 +26,7 @@ Truck path: 21
  M40, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5TZ, United Kingdom
 
 
-Number of times each location was visited:
+Number of times each location was sweeped:
 M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom: 1
 M40, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom: 4
 Park Lane, Lane End, Buckinghamshire, England, HP14 3NS, United Kingdom: 1

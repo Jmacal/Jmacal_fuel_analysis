@@ -1,6 +1,6 @@
-SN214929_2023_10_20_1330.log
+SN214929_2023_10_20_1330.csv
 
-Number of unique locations visited: 3
+Number of unique locations sweeped: 3
 
 Truck path: 6
  LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SQ, United Kingdom
@@ -11,7 +11,7 @@ Truck path: 6
  LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SQ, United Kingdom
 
 
-Number of times each location was visited:
+Number of times each location was sweeped:
 LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SQ, United Kingdom: 3
 LBRUT Central Depot, River Crane Walk, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7FA, United Kingdom: 2
 LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SY, United Kingdom: 1

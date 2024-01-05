@@ -1,8 +1,8 @@
-Average number of locations sweeped: 29.25
+Average number of locations visited: 38.666666666666664
 
-Total number of unique locations sweeped: 96
+Total number of unique locations visited: 167
 
-Number of times each location was sweeped:
+Number of times each location was visited:
 10, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EL, United Kingdom: 1
 2, Clifford Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EA, United Kingdom: 1
 8, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
@@ -99,3 +99,74 @@ Cressex Road, Great Marlow, High Wycombe Community Board, High Wycombe, Buckingh
 LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SQ, United Kingdom: 3
 LBRUT Central Depot, River Crane Walk, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7FA, United Kingdom: 2
 LBRUT Central Depot, Craneford Way, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 7SY, United Kingdom: 1
+Hampton Wick Garage and MOT Test Centre, 1a, Upper Teddington Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DL, United Kingdom: 1
+Wickham House, Upper Teddington Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DL, United Kingdom: 1
+High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DL, United Kingdom: 1
+97, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 4
+Priya's Convenience Store, 85, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DG, United Kingdom: 4
+100, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+98, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+96, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+92, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 3
+Hampton Wick Station, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+90, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 1
+88, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+86, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+84, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+82, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+80, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+78, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+76, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+74, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+72, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+70, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 2
+68, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DQ, United Kingdom: 4
+1, Seymour Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DG, United Kingdom: 1
+56-58, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 3
+The Foresters Arms, 45, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DG, United Kingdom: 3
+Hampton Wick Tandoori, 36-38, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 3
+Sigma Sports, 37-43, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+Little China, 35, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 3
+The Swan, 22, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 3
+Lower Teddington Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 1
+Hussars, 23, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+Pomegranate Bistro, 17, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+Riverview House, 20, Old Bridge Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DP, United Kingdom: 1
+Lower Teddington Road, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 1
+Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 2
+Horse Fair, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 1
+High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4BY, United Kingdom: 3
+Machaan, 5, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DA, United Kingdom: 2
+London Electric Bike Co, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 1
+ShowPrint, High Street, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DB, United Kingdom: 1
+School Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DE, United Kingdom: 1
+Jubilee Close, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4DH, United Kingdom: 1
+Hampton House, 1, Vicarage Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4ED, United Kingdom: 1
+London Heating Ltd, 360, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LE, United Kingdom: 1
+Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LX, United Kingdom: 1
+Shell, 22-24, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+20, Marksbury Avenue, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+Cranleigh Court, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4JF, United Kingdom: 1
+18, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+17, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+16, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+14, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+13, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+12, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+10, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+9, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+8, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+7, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+5, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+4, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+3, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+2, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+1, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LJ, United Kingdom: 1
+Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LN, United Kingdom: 2
+Mortlake Road, Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4LN, United Kingdom: 1
+Lower Richmond Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, SW14 7BS, United Kingdom: 1
+Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, SW14 7BS, United Kingdom: 1
+Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4ES, United Kingdom: 1
+Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4EW, United Kingdom: 1
+221, Mortlake Road, North Sheen, London Borough of Richmond upon Thames, London, Greater London, England, TW9 4EW, United Kingdom: 1

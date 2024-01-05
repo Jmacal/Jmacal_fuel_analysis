@@ -1,6 +1,6 @@
-SN214929_2023_07_26_1154.log
+SN214929_2023_07_26_1154.csv
 
-Number of unique locations visited: 55
+Number of unique locations sweeped: 55
 
 Truck path: 66
  10, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EL, United Kingdom
@@ -71,7 +71,7 @@ Truck path: 66
  Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom
 
 
-Number of times each location was visited:
+Number of times each location was sweeped:
 10, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EL, United Kingdom: 1
 2, Clifford Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EA, United Kingdom: 1
 8, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
