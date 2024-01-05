@@ -1,0 +1,9 @@
+Average Total Fuel Consumed: 0.8516220416042884
+Average Fuel Consumed: 0.000150945732133458
+Average Std Fuel Consumed: 6.192215610339226e-05
+Average Session Duration: 528.2974215246655
+Average Fan Speed: 1622.975873246438
+Average Std Fan Speed: 327.208694636678
+Average Engine Speed: 947.4492972761542
+Average Std Engine Speed: 187.62513008819855
+Average Number of Pauses: 2071.8150224215246

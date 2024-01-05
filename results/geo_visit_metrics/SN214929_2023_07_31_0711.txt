@@ -1,0 +1,54 @@
+SN214929_2023_07_31_0711.log
+
+Number of unique locations sweeped: 22
+
+Truck path: 24
+ M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2SD, United Kingdom
+ M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2BF, United Kingdom
+ M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 1FB, United Kingdom
+ M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Wooburn Green, Buckinghamshire, England, HP9 1XB, United Kingdom
+ M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0NW, United Kingdom
+ Wooburn Green Lane, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Wooburn Green, Buckinghamshire, England, HP9 1UD, United Kingdom
+ M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0NW, United Kingdom
+ M40, Holtspur, Wooburn, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0NW, United Kingdom
+ M40, Wooburn, Loudwater, Buckinghamshire, England, HP10 0NL, United Kingdom
+ M40, Wooburn, Loudwater, Buckinghamshire, England, HP10 0PB, United Kingdom
+ M40, Knave's Beech Business Park, Wooburn, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9UT, United Kingdom
+ M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0PB, United Kingdom
+ M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9RS, United Kingdom
+ M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP11 1JT, United Kingdom
+ M40, Rayners Avenue Mobile Home Park, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9DL, United Kingdom
+ M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Little Marlow, Buckinghamshire, England, HP10 9FG, United Kingdom
+ M40, Little Marlow, Buckinghamshire, England, HP10 9FW, United Kingdom
+ M40, Little Marlow, Buckinghamshire, England, HP11 1QG, United Kingdom
+ M40, Handy Cross, Little Marlow, Buckinghamshire, England, HP11 1TJ, United Kingdom
+ M40, Handy Cross, Little Marlow, Buckinghamshire, England, HP11 1UP, United Kingdom
+ M40, Great Marlow, Little Marlow, Buckinghamshire, England, HP11 1UP, United Kingdom
+ M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
+ Cressex Road, Great Marlow, High Wycombe Community Board, High Wycombe, Buckinghamshire, England, HP12 4QQ, United Kingdom
+ M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
+
+
+Number of times each location was sweeped:
+M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2SD, United Kingdom: 1
+M40, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 2BF, United Kingdom: 1
+M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 1FB, United Kingdom: 1
+M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Wooburn Green, Buckinghamshire, England, HP9 1XB, United Kingdom: 1
+M40, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0NW, United Kingdom: 2
+Wooburn Green Lane, Holtspur, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Wooburn Green, Buckinghamshire, England, HP9 1UD, United Kingdom: 1
+M40, Holtspur, Wooburn, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0NW, United Kingdom: 1
+M40, Wooburn, Loudwater, Buckinghamshire, England, HP10 0NL, United Kingdom: 1
+M40, Wooburn, Loudwater, Buckinghamshire, England, HP10 0PB, United Kingdom: 1
+M40, Knave's Beech Business Park, Wooburn, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9UT, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 0PB, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9RS, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP11 1JT, United Kingdom: 1
+M40, Rayners Avenue Mobile Home Park, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Loudwater, Buckinghamshire, England, HP10 9DL, United Kingdom: 1
+M40, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Little Marlow, Buckinghamshire, England, HP10 9FG, United Kingdom: 1
+M40, Little Marlow, Buckinghamshire, England, HP10 9FW, United Kingdom: 1
+M40, Little Marlow, Buckinghamshire, England, HP11 1QG, United Kingdom: 1
+M40, Handy Cross, Little Marlow, Buckinghamshire, England, HP11 1TJ, United Kingdom: 1
+M40, Handy Cross, Little Marlow, Buckinghamshire, England, HP11 1UP, United Kingdom: 1
+M40, Great Marlow, Little Marlow, Buckinghamshire, England, HP11 1UP, United Kingdom: 1
+M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom: 2
+Cressex Road, Great Marlow, High Wycombe Community Board, High Wycombe, Buckinghamshire, England, HP12 4QQ, United Kingdom: 1

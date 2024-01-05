@@ -1,0 +1,129 @@
+SN214929_2023_07_26_1154.log
+
+Number of unique locations sweeped: 55
+
+Truck path: 66
+ 10, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EL, United Kingdom
+ 2, Clifford Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EA, United Kingdom
+ 8, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom
+ 6, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom
+ 2, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom
+ 237, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ Sandpits Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7DX, United Kingdom
+ 235, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 233, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 231, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 229, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 227, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 225, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 223, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 221, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 219, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 217, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 215, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 213, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 211, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 207, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 252, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ 201, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ 199, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 195, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 193, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 191, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 189, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 183, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Petersham Hollow, 226, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AL, United Kingdom
+ 210, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Sandpits Road, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ 210, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Chestnut Cottage, Sudbrook Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AY, United Kingdom
+ 210, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Chestnut Cottage, Sudbrook Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AY, United Kingdom
+ 202, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AD, United Kingdom
+ The Russell Primary School, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom
+ Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7BF, United Kingdom
+ The Russell Primary School, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom
+ Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7BF, United Kingdom
+ Avenue Lodge, 190, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AD, United Kingdom
+ Manor Farm Yard, 151, Tree Close, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom
+ Manor Farm House, 149, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom
+ Petersham Farm Stables, 147, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom
+ Rutland Lodge, 145, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Magnolia House, 143a, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Petersham House, 141-143, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ 139, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AB, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom
+ 137, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ The Dysart, 135, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom
+ The Dysart, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom
+ 127, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom
+ Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom
+ Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom
+ 0166, Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom
+ Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom
+ Nightingale Lane, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom
+ Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom
+
+
+Number of times each location was sweeped:
+10, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EL, United Kingdom: 1
+2, Clifford Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EA, United Kingdom: 1
+8, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
+6, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
+2, Sandy Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7EN, United Kingdom: 1
+237, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+Sandpits Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7DX, United Kingdom: 1
+235, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+233, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+231, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+229, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+227, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+225, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+223, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+221, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+219, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+217, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+215, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+213, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+211, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+207, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+252, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+201, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+199, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+195, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+193, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+191, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+189, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+183, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Hollow, 226, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AL, United Kingdom: 1
+210, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 3
+Sandpits Road, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Chestnut Cottage, Sudbrook Lane, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AY, United Kingdom: 2
+202, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AD, United Kingdom: 1
+The Russell Primary School, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 2
+Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7BF, United Kingdom: 2
+Avenue Lodge, 190, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AD, United Kingdom: 1
+Manor Farm Yard, 151, Tree Close, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 1
+Manor Farm House, 149, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 1
+Petersham Farm Stables, 147, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AH, United Kingdom: 1
+Rutland Lodge, 145, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Magnolia House, 143a, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham House, 141-143, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+139, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AB, United Kingdom: 1
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AW, United Kingdom: 1
+137, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+The Dysart, 135, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom: 3
+The Dysart, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AE, United Kingdom: 1
+127, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 7AA, United Kingdom: 1
+Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom: 3
+Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom: 3
+0166, Petersham Path, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UZ, United Kingdom: 1
+Nightingale Lane, Petersham Road, Petersham, London Borough of Richmond upon Thames, London, Greater London, England, TW10 6UY, United Kingdom: 1

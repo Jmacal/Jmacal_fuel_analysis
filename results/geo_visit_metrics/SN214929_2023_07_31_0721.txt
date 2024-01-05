@@ -1,0 +1,46 @@
+SN214929_2023_07_31_0721.log
+
+Number of unique locations sweeped: 17
+
+Truck path: 21
+ M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
+ M40, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
+ Park Lane, Lane End, Buckinghamshire, England, HP14 3NS, United Kingdom
+ M40, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
+ M40, Lane End, High Wycombe Community Board, High Wycombe, Buckinghamshire, England, HP12 4QD, United Kingdom
+ M40, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
+ Bullocks Farm Lane, Lane End, Buckinghamshire, England, HP14 3NH, United Kingdom
+ M40, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom
+ High Wycombe Bypass, Lane End, Buckinghamshire, England, HP14 3NB, United Kingdom
+ High Wycombe Bypass, Lane End, Studley Green, Stokenchurch, Buckinghamshire, England, HP14 3NA, United Kingdom
+ High Wycombe Bypass, Stokenchurch, Buckinghamshire, England, HP14 3TY, United Kingdom
+ M40, Stokenchurch, Buckinghamshire, England, HP14 3TU, United Kingdom
+ M40, Stokenchurch, Buckinghamshire, England, HP14 3WN, United Kingdom
+ M40, Stokenchurch, Buckinghamshire, England, HP14 3YH, United Kingdom
+ M40, Lewknor, Stokenchurch, Buckinghamshire, England, HP14 3YH, United Kingdom
+ M40, Lewknor, South Oxfordshire, Oxfordshire, England, HP14 3YH, United Kingdom
+ M40, Lewknor, South Oxfordshire, Oxfordshire, England, OX49 5RT, United Kingdom
+ M40, Lewknor, South Oxfordshire, Oxfordshire, England, OX49 5TJ, United Kingdom
+ M40, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5TZ, United Kingdom
+ Nethercote Lane, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5RX, United Kingdom
+ M40, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5TZ, United Kingdom
+
+
+Number of times each location was sweeped:
+M40, Great Marlow, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom: 1
+M40, Lane End, Buckinghamshire, England, HP14 3LG, United Kingdom: 4
+Park Lane, Lane End, Buckinghamshire, England, HP14 3NS, United Kingdom: 1
+M40, Lane End, High Wycombe Community Board, High Wycombe, Buckinghamshire, England, HP12 4QD, United Kingdom: 1
+Bullocks Farm Lane, Lane End, Buckinghamshire, England, HP14 3NH, United Kingdom: 1
+High Wycombe Bypass, Lane End, Buckinghamshire, England, HP14 3NB, United Kingdom: 1
+High Wycombe Bypass, Lane End, Studley Green, Stokenchurch, Buckinghamshire, England, HP14 3NA, United Kingdom: 1
+High Wycombe Bypass, Stokenchurch, Buckinghamshire, England, HP14 3TY, United Kingdom: 1
+M40, Stokenchurch, Buckinghamshire, England, HP14 3TU, United Kingdom: 1
+M40, Stokenchurch, Buckinghamshire, England, HP14 3WN, United Kingdom: 1
+M40, Stokenchurch, Buckinghamshire, England, HP14 3YH, United Kingdom: 1
+M40, Lewknor, Stokenchurch, Buckinghamshire, England, HP14 3YH, United Kingdom: 1
+M40, Lewknor, South Oxfordshire, Oxfordshire, England, HP14 3YH, United Kingdom: 1
+M40, Lewknor, South Oxfordshire, Oxfordshire, England, OX49 5RT, United Kingdom: 1
+M40, Lewknor, South Oxfordshire, Oxfordshire, England, OX49 5TJ, United Kingdom: 1
+M40, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5TZ, United Kingdom: 2
+Nethercote Lane, Lewknor, Postcombe, South Oxfordshire, Oxfordshire, England, OX49 5RX, United Kingdom: 1
