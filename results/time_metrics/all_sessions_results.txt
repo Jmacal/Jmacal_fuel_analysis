@@ -1,0 +1,7 @@
+Average Nozzle1 Down Time: 0.31841470698021673
+Average Nozzle2 Down Time: 0.004639044419559537
+Average Fan On Time: 0.608455207166854
+Average Engine On Time: 0.6158497573721541
+Average Fan Speed: nan
+Average Engine Speed: nan
+Average Fuel Consumed: 9.966591928251116
